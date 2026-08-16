@@ -1,0 +1,307 @@
+British Board of Coaching (BBC) – Premium Website
+
+Create a world-class, premium, modern, responsive website for the British Board of Coaching (BBC).
+
+Use the uploaded BBC logo throughout the website.
+
+
+---
+
+Brand Identity
+
+Color Palette
+
+Primary: Navy Blue (#0B2E59)
+
+Secondary: White (#FFFFFF)
+
+Accent: Emerald Green (#1F6B4D)
+
+Light Gray backgrounds for section separation
+
+
+The overall design should communicate:
+
+Trust
+
+Excellence
+
+Professionalism
+
+International Accreditation
+
+Leadership
+
+Innovation
+
+
+Use smooth animations, glassmorphism effects, elegant icons, rounded cards, premium typography, subtle gradients, and luxurious spacing.
+
+
+---
+
+Hero Section
+
+Headline
+
+Empowering Coaches. Transforming Lives. Creating Global Leaders.
+
+Subheadline
+
+The British Board of Coaching (BBC) is committed to setting the highest international standards in professional coaching through globally recognized certifications, expert-led training, ethical excellence, and continuous professional development.
+
+Whether you are beginning your coaching journey or advancing your professional career, BBC provides the education, accreditation, credibility, and support needed to succeed on an international level.
+
+Call-to-Action Buttons
+
+Get Certified
+
+Apply Now
+
+Contact Us
+
+
+
+---
+
+About BBC
+
+Create a visually stunning section introducing BBC as a premier international coaching accreditation organization.
+
+Explain that BBC is dedicated to developing highly competent coaches through internationally aligned education, professional ethics, practical experience, and lifelong learning.
+
+Include elegant illustrations, statistics counters, and animated design elements.
+
+
+---
+
+Why Choose BBC
+
+Display beautiful premium cards with hover effects.
+
+International Recognition
+
+Build credibility with certifications designed to meet international coaching standards.
+
+Professional Accreditation
+
+Strengthen your professional profile with respected coaching credentials.
+
+Expert Trainers
+
+Learn from experienced coaches and industry professionals.
+
+Practical Learning
+
+Hands-on coaching practice, real case studies, and interactive workshops.
+
+Global Community
+
+Become part of an international network of professional coaches.
+
+Career Growth
+
+Unlock new opportunities in coaching, leadership, consulting, and organizational development.
+
+
+---
+
+Programs & Certifications
+
+Display the following programs in luxurious categorized cards with professional icons and smooth hover animations.
+
+Core Credential Diplomas
+
+ACQ – Associate Certified Qualification
+
+PCQ – Professional Certified Qualification
+
+MCQ – Master Certified Qualification
+
+
+
+---
+
+Specialized Coaching Programs
+
+Life Coaching
+
+Therapeutic Life Coaching
+
+Healing Coaching
+
+Relationship Coaching
+
+Enneagram Coaching Program
+
+Positive Psychology Coaching
+
+Academic Coaching
+
+Career Coaching
+
+Nutrition Coaching
+
+
+
+---
+
+Business & Corporate Programs
+
+Business Coaching
+
+Executive & Leadership Coaching
+
+SUMO Coaching Methodology
+
+
+
+---
+
+Benefits of Joining BBC
+
+Create an elegant feature grid.
+
+✔️ International credibility
+
+✔️ Professional certification
+
+✔️ Career advancement
+
+✔️ Practical coaching experience
+
+✔️ Ethical coaching standards
+
+✔️ Global networking opportunities
+
+✔️ Expert mentorship
+
+✔️ Lifetime professional growth
+
+✔️ Modern learning methodology
+
+✔️ Continuous support
+
+✔️ Increased client confidence
+
+✔️ Competitive professional advantage
+
+
+---
+
+Our Mission
+
+To empower coaches worldwide by delivering exceptional education, internationally respected accreditation, ethical coaching standards, and transformational professional development.
+
+
+---
+
+Our Vision
+
+To become one of the world's leading coaching accreditation organizations recognized for excellence, innovation, integrity, and transformational leadership.
+
+
+---
+
+Testimonials
+
+Create elegant testimonial cards.
+
+> "BBC transformed my coaching career by providing internationally respected accreditation and exceptional training."
+
+
+
+> "Professional, inspiring, and truly committed to coaching excellence."
+
+
+
+> "One of the best investments I have made in my professional journey."
+
+
+
+
+---
+
+Contact Section
+
+British Board of Coaching
+
+📞 Phone / WhatsApp
+
+01032902091
+
+📧 Email
+
+info@britishboardofcoaching.com
+
+🌐 Website
+
+https://britishboardofcoaching.com
+
+
+---
+
+Footer
+
+Include:
+
+Home
+
+About
+
+Programs
+
+Accreditation
+
+Contact
+
+
+Social Media Icons:
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+YouTube
+
+
+Footer Text:
+
+© 2026 British Board of Coaching. All Rights Reserved.
+
+
+---
+
+Design Requirements
+
+Do NOT include any "Trusted by Professionals" section anywhere on the website.
+
+Fully responsive
+
+Luxury corporate appearance
+
+Smooth scrolling
+
+Modern animations
+
+Sticky navigation
+
+Glassmorphism sections
+
+Premium gradients using navy blue and white
+
+Elegant cards with hover effects
+
+SEO optimized
+
+Mobile-first design
+
+Accessibility compliant
+
+Fast loading
+
+Professional photography and coaching-related imagery
+
+High-end corporate aesthetic comparable to leading international accreditation organizations, giving visitors confidence, trust, and a premium user experience.
